@@ -1,0 +1,38 @@
+main div{
+    background-color:palegoldenrod;
+    margin-left:40px;
+    border-radius: 5px;
+    padding:3px;
+}
+span{
+    background-color: lime;
+    border:2px;
+    margin-left:700px;
+    border-radius:2px;
+    padding:10;
+}
+span:hover{
+    background-color: blue;
+}
+img{
+    border-radius: 8px;
+    margin-left: 120px;
+}
+img:hover{
+    background-color:blue;
+}
+.center{
+    text-align: center;
+}
+.cc{
+    font-size: 40px;
+    margin-left:200px;
+}
+.button{
+    margin-left:700px;
+}
+footer{
+    background :url(https://plus.unsplash.com/premium_photo-1664374288390-8a02d5614a8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bmF0dXJhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60);
+    background-color:lightgreen;
+    margin:auto;
+}
